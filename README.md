@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, Santiago Bogosavljevich</h1>
-<h3 align="center">A MERN fullstack developer from Argentina.</h3>
+<h3 align="center">A frontend developer from Argentina.</h3>
 
 - 📫 How to reach me **sbogosavljevich@gmail.com**
 
