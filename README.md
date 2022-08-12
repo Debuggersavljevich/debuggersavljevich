@@ -1,4 +1,4 @@
-<h1 align="center">Hi there👋, Santiago Bogosavljevich</h1>
+<h1 align="center">Hi there👋, I'm Santiago Bogosavljevich</h1>
 <h3 align="center">A software developer from Argentina.</h3>
 
 - 📫 How to reach me **sbogosavljevich@gmail.com**
